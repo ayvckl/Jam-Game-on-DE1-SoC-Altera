@@ -1,7 +1,7 @@
 /*
  * main.c
  *  Created on: 20 April 2022
- *     Author: Beyza AYVACIKLI
+ *     Author:
  * Description:
  * This is a game can be play with buttons and LT24 screen configration
  * Main aim of the game the carakter should be reach to jam and
