@@ -2,7 +2,7 @@
  * start.h
  *
  *  Created on: 25 Nis 2022
- *      Author: beyza
+ *      Author:
  */
 
 #ifndef START_H_
