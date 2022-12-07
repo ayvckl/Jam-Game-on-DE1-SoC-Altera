@@ -2,7 +2,7 @@
  * jam.h
  *
  *  Created on: 28 Nis 2022
- *      Author: Beyza
+ *      Author
  */
 
 #ifndef JAM_H_
