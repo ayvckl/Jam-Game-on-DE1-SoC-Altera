@@ -3,7 +3,7 @@
  *
  *
  *  Created on: 28 Nis 2022
- *      Author: Beyza
+ *      Author:
  */
 
 #ifndef SOUND_H_
