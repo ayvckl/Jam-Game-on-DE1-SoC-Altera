@@ -2,7 +2,7 @@
  * cute.h
  *
  *  Created on: 28 Nis 2022
- *      Author: Beyza
+ *      Author:
  */
 #ifndef CUTE_H_
 #define CUTE_H_
