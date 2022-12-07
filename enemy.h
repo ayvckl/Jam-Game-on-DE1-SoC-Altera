@@ -2,7 +2,7 @@
  * enemy.h
  *
  *  Created on: 28 Nis 2022
- *      Author: Beyza
+ *      Author:
  */
 #ifndef ENEMY_H_
 #define ENEMY_H_
