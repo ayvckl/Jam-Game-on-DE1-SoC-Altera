@@ -2,7 +2,7 @@
  * background.h
  *
  *  Created on: 28 Nis 2022
- *      Author: Beyza
+ *      Author:
  */
 
 #ifndef BACKGROUND_H_
